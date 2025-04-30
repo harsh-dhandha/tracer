@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298417514202",
+    "project_id": "tracer-f1497",
+    "storage_bucket": "tracer-f1497.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298417514202:android:97be2f3197f6295076e7e3",
+        "android_client_info": {
+          "package_name": "com.example.tracer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKYdmARzJlBSu3ay7JulnvlK81oQBQbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298417514202:android:7c5eabb37008535076e7e3",
+        "android_client_info": {
+          "package_name": "com.example.tracer1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKYdmARzJlBSu3ay7JulnvlK81oQBQbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
