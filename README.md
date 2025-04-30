@@ -1,6 +1,7 @@
 # Tracer - Document Scanning & Management App
 
-![Tracer Logo](https://placeholder-for-tracer-logo.com/logo.png)
+<img src="https://github.com/user-attachments/assets/fcdb340d-b44a-4a4e-b6e6-aab8998cae6f" alt="Tracer Logo" width="300" height="300">
+
 
 ## Overview
 
@@ -11,26 +12,25 @@ Tracer is a powerful, user-friendly document scanning application built with Flu
 ### Document Scanning
 - **Intelligent Edge Detection**: Automatically identifies document boundaries in real-time
 - **Multi-page Scanning**: Capture multiple pages in sequence for comprehensive documents
-- **Perspective Correction**: Transforms angled captures into perfectly rectangular documents
-- **Image Enhancement**: Optimizes contrast, brightness, and clarity for maximum readability
+- **Perspective Correction**: Transforms angled captures into perfectly rectangular documents ( Work in Progess )
+- **Image Enhancement**: Optimizes contrast, brightness, and clarity for maximum readability ( Work in Progess )
 - **Batch Scanning**: Process multiple documents in one session
 
 ### Document Management
-- **Organizational System**: Create folders and categories to keep documents organized
-- **Tagging System**: Add custom tags for easy document retrieval
-- **Search Functionality**: Find documents quickly with full-text search
+- **Organizational System**: Create folders and categories to keep documents organized ( Work in Progess )
+- **Tagging System**: Add custom tags for easy document retrieval ( Work in Progess )
+- **Search Functionality**: Find documents quickly with full-text search ( Work in Progess )
 - **Export Options**: Save as PDF, JPG, or PNG formats
-- **Sharing Capabilities**: Share documents via email, messaging, or cloud services
+- **Sharing Capabilities**: Share documents via email, messaging, or cloud services ( Work in Progess )
 
 ### User Experience
-- **Intuitive Interface**: Clean, modern design following Material Design 3 principles
-- **Cross-platform**: Consistent experience on both iOS and Android devices
-- **Offline Support**: Scan and manage documents without an internet connection
-- **Dark Mode**: Comfortable viewing in all lighting conditions
-- **Customizable Settings**: Tailor the app to your preferences
+- **Intuitive Interface**: Clean, modern design following Material Design 3 principles ( Half Done )
+- **Cross-platform**: Consistent experience on both iOS and Android devices ( Work in Progess )
+- **Offline Support**: Scan and manage documents without an internet connection ( Work in Progess )
+- **Dark Mode**: Comfortable viewing in all lighting conditions ( Work in Progess )
 
 ### Security
-- **Secure Authentication**: Email/password and social login options.
+- **Secure Authentication**: Email/password and social login options. 
 
 ## 🚀 Getting Started
 
